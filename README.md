@@ -26,4 +26,3 @@ The simulation models random customer arrivals based on the **Poisson distributi
 
 ---
 
-### ⚙️ How to Compile
